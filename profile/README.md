@@ -70,14 +70,11 @@ Rectangle is especially popular among developers, designers, and power users who
 
 ## 🖼 Preview
 
-![Window Snapping Layout](https://i.postimg.cc/y6PcfGfC/rectangle-snap-zones.png)
+![Window Snapping Layout](https://rectangleapp.com/assets/images/shortcutScreenshot.jpg)
 *Snap windows to grid or edges using simple shortcuts*
 
-![Shortcut Settings](https://i.postimg.cc/d1gHjZ8y/rectangle-shortcuts.png)
+![Shortcut Settings](https://rectangleapp.com/assets/images/snapAreaScreenshot.jpg)
 *Customize all keyboard shortcuts to match your style*
-
-![Menu Bar Integration](https://i.postimg.cc/Zq07Py6H/rectangle-menubar.png)
-*Easily access Rectangle from the macOS menu bar*
 
 ---
 
